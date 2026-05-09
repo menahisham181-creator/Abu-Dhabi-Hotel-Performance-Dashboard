@@ -63,10 +63,9 @@ Data was cleaned and transformed in Power Query:
 
 ## 📂 Data Source
 Abu Dhabi Open Data Portal  
-https://opendata.abudhabi.ae/
+https://data.abudhabi/opendata/
 
 ---
 
 ## 🛠 Tools Used
-Power BI • Power Query • Excel • DAX • GitHub
-
+Power BI • Power Query • Excel • DAX 
