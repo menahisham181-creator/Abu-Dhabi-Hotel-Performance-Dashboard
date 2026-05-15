@@ -2,6 +2,8 @@
 A Power BI dashboard analyzing Abu Dhabi hotel performance from 2019 to 2024, focusing on revenue trends, demand patterns, pricing behavior, and zone profitability.
 This project demonstrates end‑to‑end data analysis using Excel, Power Query, DAX, and Power BI.
 
+-------
+
 🎯 Project Purpose
 To provide a clear, data‑driven view of how Abu Dhabi hotels performed over six years and help stakeholders understand:
 
@@ -14,7 +16,8 @@ Pricing behavior (ADR by month)
 Zone profitability (RevPAR and revenue contribution)
 
 ---
-Key Insights
+
+🔍 Key Insights
 Revenue shows strong YoY growth, reaching its highest level in 2024.
 
 Q4 has the highest occupancy, indicating strong end‑of‑year demand.
@@ -26,6 +29,7 @@ Saadiyat & Niche Areas lead in ADR and RevPAR, confirming premium positioning.
 Other Abu Dhabi zones contribute the largest share of total revenue due to volume.
 
 ---
+
 📈 Dashboard Features
 Revenue by Year
 
@@ -40,14 +44,13 @@ Revenue by Zone
 Interactive slicers for Year, Quarter, and Zone
 
 ---
-Tools Used
+
+🛠️ Tools Used
 Power BI – Data modeling & visualization
 
 Power Query – Data cleaning
 
 Excel – Source data preparation
-
-
 
 ---
 
