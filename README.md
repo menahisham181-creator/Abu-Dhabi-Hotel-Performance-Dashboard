@@ -3,7 +3,8 @@ A Power BI dashboard analyzing Abu Dhabi hotel performance from 2019 to 2024, fo
 This project demonstrates end‑to‑end data analysis using Excel, Power Query, DAX, and Power BI.
 
 ------
-Dashboard.png
+<img width="1906" height="1505" alt="Dashboard" src="https://github.com/user-attachments/assets/1a033b81-149b-48a5-855e-885551753167" />
+
 
 
 
