@@ -2,6 +2,11 @@
 A Power BI dashboard analyzing Abu Dhabi hotel performance from 2019 to 2024, focusing on revenue trends, demand patterns, pricing behavior, and zone profitability.
 This project demonstrates end‑to‑end data analysis using Excel, Power Query, DAX, and Power BI.
 
+------
+Dashboard.png
+
+
+
 -------
 
 🎯 Project Purpose
