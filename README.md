@@ -1,5 +1,6 @@
 📊 Abu Dhabi Hotel Performance Dashboard (2019–2024)
-A Power BI dashboard analyzing Abu Dhabi hotel performance from 2019 to 2024, focusing on revenue trends, demand patterns, pricing behavior, and zone profitability.
+
+A Power BI dashboard analyzing hotel revenue, demand, pricing behavior, and zone profitability in Abu Dhabi from 2019 to 2024.
 
 ------
 <img width="1906" height="1505" alt="Dashboard" src="https://github.com/user-attachments/assets/1a033b81-149b-48a5-855e-885551753167" />
